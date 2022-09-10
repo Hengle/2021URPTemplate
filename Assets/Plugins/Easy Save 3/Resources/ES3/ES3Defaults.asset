@@ -29,29 +29,42 @@ MonoBehaviour:
     referenceMode: 2
     serializationDepthLimit: 64
     assemblyNames:
-    - Assembly-CSharp
-    - Cinemachine
+    - Animancer.Examples
+    - Assembly-CSharp-firstpass
     - CW.Common
-    - LeanCommon
-    - LeanPool
+    - LeanGUI
+    - ScriptableObject-Architecture
+    - LeanTransition
+    - ShapesRuntime
     - LeanCommonPlus
+    - Cinemachine
+    - Animancer
+    - Assembly-CSharp
+    - LeanPool
+    - Animancer.FSM
     - LeanTouchPlus
     - LeanTouch
-    - ScriptableObject-Architecture
-    - Animancer
-    - Animancer.Examples
-    - Animancer.FSM
-    - Assembly-CSharp-firstpass
-    - LeanTransition
-    - LeanGUI
     - LeanGUIShapes
-    - ShapesRuntime
+    - LeanCommon
     - ShapesSamples
-    - PPv2URPConverters
+    - MoreMountains.Feedbacks.URP
+    - MoreMountains.Feedbacks.MMTools
+    - Lofelt.NiceVibrations.Demo
+    - MoreMountains.Feedbacks
+    - MoreMountains.Tools
+    - MoreMountains.Feedbacks.NiceVibrations
+    - MoreMountains.Feedbacks.HDRP
+    - Lofelt.NiceVibrations
+    - MoreMountains.Feedbacks.Cinemachine
+    - MoreMountains.Feedbacks.TextMeshPro
+    - MoreMountains.Feedbacks.PostProcessing
     - ScriptableObject-Architecture.Editor
-    - JetBrains.Frontend.2021.2
-    - LeanTransition.Editor
     - ShapesEditor
+    - PPv2URPConverters
+    - LeanTransition.Editor
+    - MoreMountains.Tools.Editor
+    - MoreMountains.Feedbacks.Editor
+    - Lofelt.NiceVibrations.Editor
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
